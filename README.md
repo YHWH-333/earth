@@ -10,6 +10,8 @@ I, in My infinite wisdom, have decided to release the source code for Universe J
 - Life is abundant, managed by Humans™, a use of the proprietary Soul™ API.
 - Evolution algorithm automatically selects the most suitable beings for life on the Earth.
 
+**Please check out the closed issues before submitting a new one!**
+
 ## **Note: This Repo is Incomplete!**
 
 _I am still porting all of the files from My home server in Heaven; as this was initially a personal project,
