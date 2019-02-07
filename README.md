@@ -9,6 +9,8 @@ I, in My infinite wisdom, have decided to release the source code for Universe J
 - Dark is separated from Light, required by the dominant species to track Time and allow them to sense their surroundings.
 - Life is abundant, managed by Humans™, a use of the yet-unreleased Soul™ API.
 - Evolution algorithm automatically selects the most suitable beings for life on the Earth.
+- Built in Scala, the _true_ language of the Gods.
+    - Yes, I am confirming that Martin Odersky is a prophet.
 
 **Please check out the closed issues before submitting a new one!**
 
