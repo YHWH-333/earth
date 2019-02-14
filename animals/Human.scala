@@ -1,7 +1,10 @@
+// Humans are specialized animals with more complex Souls.
+// They are largely responsible for management of all life on Earth.
+
 import com.god.Animal;
 import com.god.Soul;    // An external module for which I will release an API in due time.
 
-trait Human extends Animal {
+class Human extends Animal {
     var age: Double = 0.0;
     var parents: Tuple[Human, Human];   // One will be biologically male, one biologically female.
     var sex: Int;
@@ -13,7 +16,7 @@ trait Human extends Animal {
      */
     var sexuality: String;      // A large variety of possibilities here.
     var race: Race = Race.getMix(parents(0), parents(1));
-    var personality: Soul;      // Randomly generated for each person.
+    var soul: Soul;             // Randomly generated for each person; humans typically call this "personality."
     var moralAlignment: BigInt; // Humans have taken to calling this "selflessness." This is actually a
                                 // better name for it, but I don't feel like refactoring the whole code base for it.
 }   
