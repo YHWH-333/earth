@@ -1,13 +1,13 @@
 # Planet Earth, around which Universe Jehovah-3 is based.
 
-![Planet Earth](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/2016_Top_Images_from_NASA_Goddard_%2831786791410%29.jpg/900px-2016_Top_Images_from_NASA_Goddard_%2831786791410%29.jpg "Home of the Humans™")
+![Planet Earth](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/2016_Top_Images_from_NASA_Goddard_%2831786791410%29.jpg/900px-2016_Top_Images_from_NASA_Goddard_%2831786791410%29.jpg "Home of the Humans")
 
 I, in My infinite wisdom, have decided to release the source code for Universe Jehovah-3, starting with its base planet, Earth.
 
 ## Features
 
 - Dark is separated from Light, required by the dominant species to track Time and allow them to sense their surroundings.
-- Life is abundant, managed by Humans™, a use of the yet-unreleased Soul™ API.
+- Life is abundant, managed by Humans, the most in-depth use of the Soul API to date!
 - Evolution algorithm automatically selects the most suitable beings for life on the Earth.
 - Built in Scala, the _true_ language of the Gods.
     - Yes, I am confirming that Martin Odersky is a prophet.
