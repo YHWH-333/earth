@@ -1,5 +1,9 @@
 # Planet Earth, around which Universe Jehovah-3 is based.
 
+**Important Note:** For people who are unfamiliar with GitHub, the `Code` tab above shows the source code I've added, the `Issues` tab has bug reports that people have submitted, and the `Pull requests` tab contains code and changes that others have suggested.
+
+Please be sure to remove `is:open` from the search bar when looking at issues; this will allow you to see issues that I have either fixed or rejected.
+
 ![Planet Earth](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/2016_Top_Images_from_NASA_Goddard_%2831786791410%29.jpg/900px-2016_Top_Images_from_NASA_Goddard_%2831786791410%29.jpg "Home of the Humans")
 
 I, in My infinite wisdom, have decided to release the source code for Universe Jehovah-3, starting with its base planet, Earth.
