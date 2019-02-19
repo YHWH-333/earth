@@ -17,6 +17,7 @@ class Human extends Animal {
     var sexuality: String;      // A large variety of possibilities here.
     var race: Race = Race.getMix(parents(0), parents(1));
     var soul: Soul;             // Randomly generated for each person; humans typically call this "personality."
-    var moralAlignment: BigInt; // Humans have taken to calling this "selflessness." This is actually a
-                                // better name for it, but I don't feel like refactoring the whole code base for it.
+    var moralAlignment: BigInt = 1000;  // Humans have taken to calling this "selflessness." This is actually a
+                                        // better name for it, but I don't feel like refactoring the whole code base for it.
+                                        // Edit by diplomatic-dev: Default to positive "selflessness" variable.
 }   
