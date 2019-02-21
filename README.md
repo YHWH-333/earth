@@ -20,6 +20,6 @@ I, in My infinite wisdom, have decided to release the source code for Universe J
 
 ## **Note: This Repo is Incomplete!**
 
-_I am still porting all of the files from My home server in Heaven; as this was initially a proprietary project,
+_I am still porting all of the files from My company server in Heaven; as this was initially a proprietary project,
 I've written some personal/business information in the comments that I must remove manually. As such, I would **not**
 recommend cloning this repository until this disclaimer is removed._
