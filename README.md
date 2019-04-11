@@ -1,5 +1,7 @@
 # Planet Earth, around which Universe Jehovah-3 is based.
 
+**Please check the Wiki (tab above, beside projects) for an FAQ and my purpose for releasing this code.**
+
 **Important Note:** For people who are unfamiliar with GitHub, the `Code` tab above shows the source code I've added, the `Issues` tab has bug reports that people have submitted, and the `Pull requests` tab contains code and changes that others have suggested.
 
 Please be sure to remove `is:open` from the search bar when looking at issues; this will allow you to see issues that I have either fixed or rejected.
